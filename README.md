@@ -4,8 +4,6 @@
 
 ![Kobayashi typing](https://thumbs.gfycat.com/EnchantedBouncyAfricanpiedkingfisher-size_restricted.gif)
 
----
-
 <!---
 ![Gio's github stats](https://github-readme-stats.vercel.app/api?username=MonoSpaceGCM&count_private=true&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonoSpaceGCM&theme=buefy&layout=compact)](https://github.com/da-edra/github-readme-stats)
