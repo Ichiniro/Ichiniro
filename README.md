@@ -3,9 +3,10 @@
 # ![Kawaii dancing cat](https://i.giphy.com/media/IcJ6n6VJNjRNS/giphy.webp) _Welcome!_ ![Kawaii dancing cat](https://i.giphy.com/media/IcJ6n6VJNjRNS/giphy.webp)
 
 
-
-#![Gio's github stats](https://github-readme-stats.vercel.app/api?username=MonoSpaceGCM&count_private=true&show_icons=true&theme=buefy)
-#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonoSpaceGCM&theme=buefy&layout=compact)](https://github.com/da-edra/github-readme-stats)
+<!---
+![Gio's github stats](https://github-readme-stats.vercel.app/api?username=MonoSpaceGCM&count_private=true&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonoSpaceGCM&theme=buefy&layout=compact)](https://github.com/da-edra/github-readme-stats)
+--->
 ![Graph](https://activity-graph.herokuapp.com/graph?username=MonoSpaceGCM&bg_color=ffffff&color=f2a5a3&line=f2a5a3&point=ffffff&area=true&hide_border=false)
 
 <!---
