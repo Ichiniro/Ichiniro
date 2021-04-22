@@ -9,6 +9,7 @@
 --->
 ![Graph](https://activity-graph.herokuapp.com/graph?username=MonoSpaceGCM&bg_color=ffffff&color=f2a5a3&line=f2a5a3&point=ffffff&area=true&hide_border=false)
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/s4908wq3517rgttnnpxfxi5z3)
 <!---
 ![Kobayashi typing](https://thumbs.gfycat.com/EnchantedBouncyAfricanpiedkingfisher-size_restricted.gif)
 --->
