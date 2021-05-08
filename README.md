@@ -1,8 +1,8 @@
 <div align="center">
 
 # ![Kawaii dancing cat](https://i.giphy.com/media/IcJ6n6VJNjRNS/giphy.webp) _Welcome!_ ![Kawaii dancing cat](https://i.giphy.com/media/IcJ6n6VJNjRNS/giphy.webp)
-
-![Kobayashi typing](https://thumbs.gfycat.com/EnchantedBouncyAfricanpiedkingfisher-size_restricted.gif)
+<!--- ![Kobayashi typing](https://thumbs.gfycat.com/EnchantedBouncyAfricanpiedkingfisher-size_restricted.gif) --->
+<!--- ![Rika](https://i.imgur.com/S2w9MMK.gif) --->
 
 <!---
 ![Gio's github stats](https://github-readme-stats.vercel.app/api?username=MonoSpaceGCM&count_private=true&show_icons=true&theme=buefy)
@@ -10,7 +10,6 @@
 --->
 
 ![Graph](https://activity-graph.herokuapp.com/graph?username=Ichiniro&bg_color=ffffff&color=f2a5a3&line=f2a5a3&point=ffffff&area=true&hide_border=false)
-
 
 </div>
 
