@@ -1,6 +1,6 @@
 <div align="center">
 
-![Kawaii dancing cat](https://i.giphy.com/media/IcJ6n6VJNjRNS/giphy.webp) _Welcome!_ ![Kawaii dancing cat](https://i.giphy.com/media/IcJ6n6VJNjRNS/giphy.webp)
+# ![Kawaii dancing cat](https://i.giphy.com/media/IcJ6n6VJNjRNS/giphy.webp) __Welcome!__ ![Kawaii dancing cat](https://i.giphy.com/media/IcJ6n6VJNjRNS/giphy.webp)
 <!--- ![Kobayashi typing](https://thumbs.gfycat.com/EnchantedBouncyAfricanpiedkingfisher-size_restricted.gif) --->
 <!--- ![Rika](https://i.imgur.com/S2w9MMK.gif) --->
 
@@ -11,8 +11,6 @@
 ![Graph](https://activity-graph.herokuapp.com/graph?username=Ichiniro&bg_color=ffffff&color=f2a5a3&line=f2a5a3&point=ffffff&area=true&hide_border=false)
 --->
 </div>
-
-
 
 <!---
 - 👋 Hi, I’m @MonoSpaceGCM
