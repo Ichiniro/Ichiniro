@@ -7,7 +7,7 @@
 
 </p>
 
-<h6 align="center"> Hello, I'm Giovanni, I fellow student in love with computers and programming. Passionate about GNU/Linux and Open Sorce. </h6>
+<h6 align="center"> Hello, I'm Giovanni, A fellow student in love with computers and programming. Passionate about GNU/Linux and Open Sorce. </h6>
 
 <!---
 - 👋 Hi, I’m @Ichiniro
