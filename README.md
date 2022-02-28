@@ -1,7 +1,7 @@
 <p align="center">
 
 <img src="https://i.giphy.com/media/IcJ6n6VJNjRNS/giphy.webp) Welcome! ![Kawaii dancing cat](https://i.giphy.com/media/IcJ6n6VJNjRNS/giphy.webp" align="center" />
-<img width="100px" src="https://user-images.githubusercontent.com/38491216/130700460-a0cae0d8-bd3c-4401-baa3-63479563b819.png" align="center" />
+<!-- <img width="100px" src="https://user-images.githubusercontent.com/38491216/130700460-a0cae0d8-bd3c-4401-baa3-63479563b819.png" align="center" /> -->
 <img src="https://i.giphy.com/media/IcJ6n6VJNjRNS/giphy.webp) Welcome! ![Kawaii dancing cat](https://i.giphy.com/media/IcJ6n6VJNjRNS/giphy.webp" align="center" />
 <h1 align="center"> Welcome! </h1>
 
